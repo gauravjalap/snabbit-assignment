@@ -15,9 +15,11 @@
     "@tanstack/react-table": "^8.21.3",
     "date-fns": "^4.1.0",
     "fuse.js": "^7.1.0",
+    "lucide-react": "^0.513.0",
     "prop-types": "^15.8.1",
     "react": "^19.1.0",
     "react-csv": "^2.2.2",
+    "react-datepicker": "^8.4.0",
     "react-dom": "^19.1.0",
     "react-icons": "^5.5.0",
     "tailwindcss": "^4.1.8"
